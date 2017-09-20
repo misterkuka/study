@@ -9,9 +9,15 @@
   "author": "IB",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.18.1",
     "express": "^4.15.4",
+    "express-session": "^1.15.5",
     "formidable": "^1.1.1",
+    "jade": "^1.11.0",
     "mongodb": "^2.2.31",
+    "mongoose": "^4.11.12",
+    "passport": "^0.4.0",
+    "pug": "^2.0.0-rc.4",
     "upper-case": "^1.1.3"
   }
 }
